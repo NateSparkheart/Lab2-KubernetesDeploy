@@ -59,3 +59,6 @@ service.yaml:
           targetPort: 8080
       selector:
         app: my-app
+
+Состояние подов в консоли:
+![alt text](Lab2-KubernetesDeploy/Lab2-Consoleshot.png)
