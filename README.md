@@ -61,4 +61,4 @@ service.yaml:
         app: my-app
 
 Состояние подов в консоли:
-![alt text](Lab2-KubernetesDeploy/Lab2-Consoleshot.png)
+https://github.com/NateSparkheart/Lab2-KubernetesDeploy/blob/main/Lab2-Consoleshot.png?raw=true
