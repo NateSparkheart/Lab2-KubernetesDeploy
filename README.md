@@ -63,3 +63,7 @@ service.yaml:
 Состояние подов в консоли:
 
 ![Image alt](https://github.com/NateSparkheart/Lab2-KubernetesDeploy/blob/main/Lab2-Consoleshot.png?raw=true)
+
+Состояние подов в графическом интерфейсе:
+
+![Image alt](https://github.com/NateSparkheart/Lab2-KubernetesDeploy/blob/main/Lab2-Dashboardshot.png?raw=true)
