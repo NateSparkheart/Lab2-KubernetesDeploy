@@ -70,4 +70,6 @@ service.yaml:
 
 Видеообзор:
 
-https://github.com/NateSparkheart/Lab2-KubernetesDeploy/blob/main/Lab-2-review.mp4
+https://user-images.githubusercontent.com/97526956/155017773-75f507a1-4a4d-4a16-a099-c09fbbc4fddd.mp4
+
+
