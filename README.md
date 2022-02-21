@@ -67,3 +67,7 @@ service.yaml:
 Состояние подов в графическом интерфейсе:
 
 ![Image alt](https://github.com/NateSparkheart/Lab2-KubernetesDeploy/blob/main/Lab2-Dashboardshot.png?raw=true)
+
+Видеообзор:
+
+https://github.com/NateSparkheart/Lab2-KubernetesDeploy/blob/main/Lab-2-review.mp4
